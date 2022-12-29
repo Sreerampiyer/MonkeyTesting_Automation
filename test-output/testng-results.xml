@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-29T15:42:43 IST" name="Default suite" finished-at="2022-12-29T15:45:38 IST" duration-ms="175553">
+    <groups>
+    </groups>
+    <test started-at="2022-12-29T15:42:43 IST" name="Default test" finished-at="2022-12-29T15:45:38 IST" duration-ms="175553">
+      <class name="monkey.testcases.TCMonkeyTest">
+        <test-method signature="monkeyClick()[pri:1, instance:monkey.testcases.TCMonkeyTest@28f2a10f]" started-at="2022-12-29T15:42:43 IST" name="monkeyClick" finished-at="2022-12-29T15:43:20 IST" duration-ms="37125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- monkeyClick -->
+        <test-method signature="monkeyTouch()[pri:2, instance:monkey.testcases.TCMonkeyTest@28f2a10f]" started-at="2022-12-29T15:43:20 IST" name="monkeyTouch" finished-at="2022-12-29T15:44:01 IST" duration-ms="40686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- monkeyTouch -->
+        <test-method signature="monkeyEnterText()[pri:3, instance:monkey.testcases.TCMonkeyTest@28f2a10f]" started-at="2022-12-29T15:44:01 IST" name="monkeyEnterText" finished-at="2022-12-29T15:44:24 IST" duration-ms="23319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- monkeyEnterText -->
+        <test-method signature="monkeyScroller()[pri:4, instance:monkey.testcases.TCMonkeyTest@28f2a10f]" started-at="2022-12-29T15:44:24 IST" name="monkeyScroller" finished-at="2022-12-29T15:44:45 IST" duration-ms="21256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- monkeyScroller -->
+        <test-method signature="monkeyTyper()[pri:5, instance:monkey.testcases.TCMonkeyTest@28f2a10f]" started-at="2022-12-29T15:44:45 IST" name="monkeyTyper" finished-at="2022-12-29T15:45:12 IST" duration-ms="26693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- monkeyTyper -->
+        <test-method signature="monkeyAlltogetherAttack()[pri:6, instance:monkey.testcases.TCMonkeyTest@28f2a10f]" started-at="2022-12-29T15:45:12 IST" name="monkeyAlltogetherAttack" finished-at="2022-12-29T15:45:38 IST" duration-ms="26434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- monkeyAlltogetherAttack -->
+      </class> <!-- monkey.testcases.TCMonkeyTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
